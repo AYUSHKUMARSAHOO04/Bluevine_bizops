@@ -1,6 +1,6 @@
 <div align="center">
 
-# BlueVine BizOps Assessment
+# FinTechCo. BizOps 
 ### 6-Month Customer Acquisition Cost (CAC) Payback Analysis
 
 **Business Operations Analyst Take-Home Assignment**
